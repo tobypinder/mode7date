@@ -1,8 +1,9 @@
-# Mode7date
+# Mode7date be with you
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mode7date`. To experiment with that code, run `bin/console` for an interactive prompt.
+A simple ruby gem to monkeypatch the `Date` and `DateTime` classes to have support for the superior date format championed by [@mode7games](https://www.twitter.com/mode7games). We successfully define an approach for bypassing the primitive limitations of existing ISO standards and march towards a new temporal paradigm.
 
-TODO: Delete this and the text above, and describe your gem
+* Code: [./lib/mode7date.rb](https://www.twitter.com/tobypinder/mode7date/blob/master/lib/mode7date.rb)
+* Tests: [./spec/mode7date_spec.rb](https://www.twitter.com/tobypinder/mode7date/blob/master/spec/mode7date_spec.rb)
 
 ## Installation
 
@@ -22,9 +23,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`Date.new(...).to_mode7` or `DateTime.new(...).to_mode7`.
 
 ## Development
+
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
@@ -32,10 +34,12 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/mode7date. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+**IT IS VITALLY IMPORTANT TO MAINTAIN 100% TEST COVERAGE. TEMPORAL SANCTITY IS PARAMOUNT!**
 
+Pull requests welcome.
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+Time be with you.
