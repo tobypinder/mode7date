@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Toby Pinder"]
 
   spec.summary       = %q{Monkeypatch Date handling classes to support the pre-eminent date format.}
-  spec.description   = %q{A simple ruby gem to monkeypatch the `Date` and `DateTime` classes to have support for the superior date format championed by [@mode7games](https://www.twitter.com/mode7games). We successfully define an approach for bypassing the primitive limitations of existing ISO standards and march towards a new temporal paradigm.}
+  spec.description   = %q{A simple ruby gem to monkeypatch the `Date` and `DateTime` classes to have support for the superior date format championed by @mode7games.}
   spec.homepage      = "https://github.com/tobypinder/mode7date"
   spec.license       = "MIT"
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
