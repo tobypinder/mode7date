@@ -23,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-`Date.new(...).to_mode7` or `DateTime.new(...).to_mode7`.
+`Date.new(...).to_mode7` or `DateTime.new(...).to_mode7`. Well-formatted dates will subsequently be with you.
 
 ## Development
 
@@ -41,5 +41,3 @@ Pull requests welcome.
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Time be with you.
