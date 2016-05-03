@@ -4,6 +4,7 @@ A simple ruby gem to monkeypatch the `Date` and `DateTime` classes to have suppo
 
 * Code: [./lib/mode7date.rb](https://www.github.com/tobypinder/mode7date/blob/master/lib/mode7date.rb)
 * Tests: [./spec/mode7date_spec.rb](https://www.github.com/tobypinder/mode7date/blob/master/spec/mode7date_spec.rb)
+* [On RubyGems](https://rubygems.org/gems/mode7date)
 
 ## Installation
 
