@@ -1,4 +1,5 @@
 # Mode7date be with you
+![CI](https://travis-ci.org/tobypinder/mode7date.svg?branch=master)
 
 A simple ruby gem to monkeypatch the `Date` and `DateTime` classes to have support for the superior date format championed by [@mode7games](https://www.twitter.com/mode7games). We successfully define an approach for bypassing the primitive limitations of existing ISO standards and march towards a new temporal paradigm.
 
