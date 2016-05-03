@@ -2,8 +2,8 @@
 
 A simple ruby gem to monkeypatch the `Date` and `DateTime` classes to have support for the superior date format championed by [@mode7games](https://www.twitter.com/mode7games). We successfully define an approach for bypassing the primitive limitations of existing ISO standards and march towards a new temporal paradigm.
 
-* Code: [./lib/mode7date.rb](https://www.twitter.com/tobypinder/mode7date/blob/master/lib/mode7date.rb)
-* Tests: [./spec/mode7date_spec.rb](https://www.twitter.com/tobypinder/mode7date/blob/master/spec/mode7date_spec.rb)
+* Code: [./lib/mode7date.rb](https://www.github.com/tobypinder/mode7date/blob/master/lib/mode7date.rb)
+* Tests: [./spec/mode7date_spec.rb](https://www.github.com/tobypinder/mode7date/blob/master/spec/mode7date_spec.rb)
 
 ## Installation
 
